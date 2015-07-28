@@ -1,0 +1,47 @@
+/*body{margin:0;padding:0;font-size:14px;font-family:"黑体","Hiragino Sans GB" !important}*/
+body{font-family: "Helvetica Neue",Helvetica,Tahoma,sans-serif;
+  font-size: 13px;
+  line-height: 1.7;
+  color: #222;
+  background-color: #fff;}
+ul,ol,li{list-style:none;margin:0;padding:0}
+p,input,button,table,tr,th,td,thead,tbody,pre{padding:0;margin:0}
+strong{font-weight:bold}
+h1,h2,h3,h4,h5,blockquote,dl,dt,dd{margin:0;padding:0;font-weight:normal}
+h1,h2,h3,h4,h5,h6
+{
+	font-family: "Helvetica Neue",Helvetica,"Microsoft YaHei",SimHei,Tahoma,sans-serif;
+	font-weight: 500;
+	line-height: 1.1;
+	color: inherit;
+}
+em,cite,i{font-style:normal}img{border:none}
+a{cursor: pointer;white-space: nowrap;color: #259;text-decoration: none;}
+.mt30{margin-top:30px;}
+.mt40{margin-top:40px;}
+
+.title{color: #197ae5;font-size: 16px;padding-bottom: 10px;border-bottom: 1px solid #e2e8ee;}
+.more{color: #555;float: right;font-size: 12px;font-family: "Helvetica Neue",Helvetica,simsun,sans-serif;}
+#activity{width:490px;float:left}
+#video{width:490px;float:left;margin-left:20px;}
+#post{width:490px;float:left}
+#tag{width:490px;float:left;margin-left:20px;}
+
+.activityHot li{border-bottom: 1px dashed #e2e8ee;line-height: 26px;padding: 7px 0 10px;}
+ .activityHot li a{color: #555;display: block;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
+
+.postHot li{border-bottom: 1px dashed #e2e8ee;line-height: 26px;padding: 7px 0 10px;}
+.postHot li i{background: url(http://s2.51offer.com/51offer/images/2014-09-02/icons-2.png) no-repeat;
+  color: #fff;
+  display: inline-block;
+  font-size: 11px;
+  font-family: Helvetica,Tahoma;
+  font-style: normal;
+  margin-right: 5px;
+  padding-left: 22px;
+  width: 29px;}
+ .postHot li a{color: #555;display: block;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
+
+.tagHot li{border-bottom: 1px solid #e2e8ee;line-height: 26px;padding: 7px 0 10px;}
+.tagHot li span{color: #b4b4b4;}
+.tagHot li a{margin-right: 15px;}
